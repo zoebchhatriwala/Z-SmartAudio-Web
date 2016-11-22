@@ -1,2 +1,2 @@
 # Z-SmartAudio-Web
-Z-SmartAudio Web Includes Administrator Panel and WebAPIs for SmartAudio Android Application.
+Z-SmartAudio Web Includes Administrator Panel and WebAPIs for SmartAudio Android Application, Developed In PHP.
